@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "spotify-week2": {
+      "type": "stdio",
+      "command": "/ABSOLUTE/PATH/TO/week2/.venv/bin/python",
+      "args": ["/ABSOLUTE/PATH/TO/week2/server.py"]
+    }
+  }
+}

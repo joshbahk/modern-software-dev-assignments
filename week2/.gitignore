@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.spotify-tokens.json
+.spotify-tokens.json.*
+.mcp.json
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
